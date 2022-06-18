@@ -1,5 +1,7 @@
 # A LC a day keeps low TC away
 
+## Getting myself familiar with Go syntax
+
 ## Array
 - [x] Two Sum
 - [x] Best Time to Buy and Sell Stock
