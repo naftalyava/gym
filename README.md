@@ -1,4 +1,4 @@
-# A LC a day keeps stagnation away
+# A LC a day keeps low TC away
 
 ## Array
 - [x] Two Sum
