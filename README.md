@@ -97,3 +97,10 @@
 - [ ] Merge K Sorted Lists
 - [ ] Top K Frequent Elements
 - [ ] Find Median from Data Stream
+
+
+## Misc
+- [x] Running Sum of 1d Array
+- [x] Find Pivot Index
+- [x] Isomorphic Strings
+- [x] Is Subsequence
