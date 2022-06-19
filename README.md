@@ -2,6 +2,13 @@
 
 ## Getting myself familiar with Go syntax
 
+
+## Misc
+- [x] Running Sum of 1d Array
+- [x] Find Pivot Index
+- [x] Isomorphic Strings
+- [x] Is Subsequence
+
 ## Array
 - [x] Two Sum
 - [x] Best Time to Buy and Sell Stock
@@ -97,10 +104,3 @@
 - [ ] Merge K Sorted Lists
 - [ ] Top K Frequent Elements
 - [ ] Find Median from Data Stream
-
-
-## Misc
-- [x] Running Sum of 1d Array
-- [x] Find Pivot Index
-- [x] Isomorphic Strings
-- [x] Is Subsequence
