@@ -26,10 +26,9 @@ func coinChange_aux(coins []int, amount int, g_map *[10001]int) int {
 	for _, e := range coins {
 		tmp := coinChange_aux(coins, amount-e, g_map)
 
-		if amount-e >= 0 {
+		if amount-e >= 0 && (*g_map)[amount-e] == -2 {
 			(*g_map)[amount-e] = tmp
-		} else {
-			continue
+			fmt.Println("added:", amount-e, tmp)
 		}
 
 		if tmp >= 0 && tmp <= min {
@@ -57,5 +56,5 @@ func coinChange(coins []int, amount int) int {
 func main() {
 	coins := []int{1, 2, 5}
 
-	fmt.Println(coinChange(coins, 8))
+	fmt.Println(coinChange(coins, 100))
 }
