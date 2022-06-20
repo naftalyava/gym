@@ -8,6 +8,8 @@
 - [x] Find Pivot Index
 - [x] Isomorphic Strings
 - [x] Is Subsequence
+- [x] Merge Two Sorted Lists
+- [x] Reverse Linked List
 
 ## Array
 - [x] Two Sum
