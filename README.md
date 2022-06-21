@@ -10,6 +10,7 @@
 - [x] Is Subsequence
 - [x] Merge Two Sorted Lists
 - [x] Reverse Linked List
+- [x] Middle of the Linked List
 
 ## Array
 - [x] Two Sum
@@ -61,8 +62,8 @@
 - [ ] Meeting Rooms II (Leetcode Premium)
 
 ## Linked List
-- [ ] Reverse a Linked List
-- [ ] Detect Cycle in a Linked List
+- [x] Reverse a Linked List
+- [x] Detect Cycle in a Linked List
 - [ ] Merge Two Sorted Lists
 - [ ] Merge K Sorted Lists
 - [ ] Remove Nth Node From End Of List
